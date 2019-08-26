@@ -1,6 +1,6 @@
 # unitedctf.github.io
 
-> https://unitedctf.ca
+> https://unitedctf.github.io
 
 UnitedCTF website.
 
