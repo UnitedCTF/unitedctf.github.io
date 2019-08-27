@@ -20,6 +20,6 @@ Un [«Capture the Flag (CTF)»](https://fr.wikipedia.org/wiki/Capture_du_drapeau
 
 ## Édition 2019
 
-- [Inscription](#)
+- [Inscription]({{ site.data.ctf_inscription_url }})
 - Du vendredi 20 septembre au samedi 29 septembre
 
