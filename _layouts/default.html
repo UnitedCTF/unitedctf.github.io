@@ -23,8 +23,8 @@
       <h1 class="project-name">{{ page.title | default: site.title }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description }}</h2>
 
-      {% if site.data.ctf.display %}
-        <a class="btn" href="{{ site.data.ctf.url }}">Inscription {{ site.data.ctf.name }}</a>
+      {% if site.ctf.display %}
+        <a class="btn" href="{{ site.ctf.url }}">Inscription {{ site.ctf.name }}</a>
       {% endif %}
     </header>
 
@@ -32,7 +32,7 @@
       {{ content }}
 
       <footer class="site-footer">
-        <a href="{{ site.data.slack_inscription_url }}">Rejoindre le Slack</a>
+        <a href="{{ site.slack_inscription_url }}">Rejoindre le Slack</a>
       </footer>
     </main>
   </body>

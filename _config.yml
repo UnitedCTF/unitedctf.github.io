@@ -1,13 +1,13 @@
 lang: "fr"
 title: "UnitedCTF"
 description: "Compétition informatique"
-data:
-  slack_inscription_url: https://join.slack.com/t/united-ctf/shared_invite/enQtNzMxNTU2NTk3NDA4LTQxMmRjYjkyZGRhMWI5MzU0NjJjNDgzODg5Zjg2ZDYyOWYwODQ3ZjRhOWEwNzA5MGM3OWE2MTc4ZWQ0OTE5MmQ
-  ctf:
-    display: true
-    name: "édition 2019"
-    url: "https://unitedctf.ca/"
-    date: "Du vendredi 20 septembre au samedi 29 septembre"
+
+slack_inscription_url: https://join.slack.com/t/united-ctf/shared_invite/enQtNzMxNTU2NTk3NDA4LTQxMmRjYjkyZGRhMWI5MzU0NjJjNDgzODg5Zjg2ZDYyOWYwODQ3ZjRhOWEwNzA5MGM3OWE2MTc4ZWQ0OTE5MmQ
+ctf:
+  display: true
+  name: "édition 2019"
+  url: "https://unitedctf.ca/"
+  date: "Du vendredi 20 septembre au samedi 29 septembre"
 
 plugins:
   - "jekyll-seo-tag"

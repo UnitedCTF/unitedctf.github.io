@@ -1,0 +1,11 @@
+- name: "JDIS"
+  url: "https://jdis.ca/"
+  university_name: "l'Université de Sherbrooke"
+
+- name: "DCIÉTS"
+  url: "https://dciets.com"
+  university_name: "l'École de technologie supérieure"
+
+- name: "CFIUL"
+  url: "https://cfiul.ca"
+  university_name: "l'Université Laval"
