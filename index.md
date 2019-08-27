@@ -26,5 +26,6 @@ Un [«Capture the Flag (CTF)»](https://fr.wikipedia.org/wiki/Capture_du_drapeau
 ## {{ site.ctf.name | capitalize }}
 
 - [Inscription]({{ site.ctf.url }})
+- [Rejoindre notre Slack]({{ site.slack_inscription_url }})
 - {{ site.ctf.date }}
 {% endif %}
