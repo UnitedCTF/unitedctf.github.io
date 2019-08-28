@@ -11,7 +11,7 @@ Le niveau de difficulté des défis varie de _très facile_ à _difficile_. Cett
 <ul>  
   {% for club in site.data.clubs %}
   <li>
-    <a href="{{ club.url }}">{{ club.name }}</a> de {{ club.university_name }}
+    <b><a href="{{ club.url }}">{{ club.name }}</a></b> de {{ club.university_name }}
   </li>
   {% endfor %}
 </ul>
