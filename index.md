@@ -20,7 +20,7 @@ Le niveau de difficulté des défis varie de _très facile_ à _difficile_. Cett
 
 ## Qu'est-ce qu'un CTF?
 
-Un [«Capture the Flag (CTF)»](https://fr.wikipedia.org/wiki/Capture_du_drapeau#En_s%C3%A9curit%C3%A9_de_l'information) (en français **Capture du drapeau**) est une compétition informatique dont le but est d'obtenir le plus de points. Les points sont ramassés en soumettant des drapeaux dans le système de pointage. Un drapeau est une chaîne de caractère secrète, que l'on obtient lorsque l'on résout un défi.
+Un **CTF**, abbreviation de **[Capture The Flag](https://fr.wikipedia.org/wiki/Capture_du_drapeau#En_s%C3%A9curit%C3%A9_de_l'information)** (_Capture du drapeau_), est une compétition informatique dont le but est d'obtenir le plus de points. Les points sont ramassés en soumettant des drapeaux dans le système de pointage. Un drapeau est une chaîne de caractère secrète, que l'on obtient lorsque l'on résout un défi.
 
 {% if site.ctf.display %}
 ## {{ site.ctf.name | capitalize }}
