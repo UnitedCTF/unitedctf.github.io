@@ -27,6 +27,7 @@ Un **CTF**, abbreviation de **[Capture The Flag](https://fr.wikipedia.org/wiki/C
 
 > {{ site.ctf.date }}
 
+- {{ site.ctf.place | capitalize }}
 - [Inscrivez vous]({{ site.ctf.url }})
 - [Rejoignez notre Slack]({{ site.slack_inscription_url }})
 {% endif %}
