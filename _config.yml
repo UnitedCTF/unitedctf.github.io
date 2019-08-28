@@ -7,7 +7,7 @@ ctf:
   display: true
   name: "édition 2019"
   url: "https://unitedctf.ca/"
-  date: "Du vendredi 20 septembre au samedi 29 septembre"
+  date: "Du vendredi 20 septembre au dimanche 29 septembre"
 
 plugins:
   - "jekyll-seo-tag"
