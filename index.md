@@ -5,7 +5,7 @@ title: "UnitedCTF"
 
 **UnitedCTF** est compétition amicale informatique dans le format d'un [CTF](https://fr.wikipedia.org/wiki/Capture_du_drapeau#En_s%C3%A9curit%C3%A9_de_l'information), proposant une multitude de défis de programmation et de sécurité. 
 
-Le niveau de difficulté des défis varie de _très facile_ à _difficile_. Cette compétition est donc idéale pour les personnes débutantes en informatique, n'ayant jamais fait de compétition informatique, de même que pour les personnes déjà initiée.
+Le niveau de difficulté des défis varie de _très facile_ à _difficile_. Cette compétition est donc idéale pour les personnes débutantes en informatique, n'ayant jamais fait de compétition informatique, de même que pour les personnes déjà initiées.
  
 **UnitedCTF** est une collaboration des clubs informatiques universitaires suivants:
 <ul>  
