@@ -1,0 +1,11 @@
+.site-footer-club {
+  &::after {
+    content: ',';
+    font-weight: bold;
+    color: $body-text-color;
+  }
+
+  &:last-child:after {
+    content: '';
+  }
+}
