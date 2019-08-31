@@ -21,7 +21,7 @@
 
     <header class="page-header" role="banner">
       <img width="350px" src="assets/images/logo/logo_white_alpha.png" alt="Logo UnitedCTF">
-      <h2 class="project-tagline">{{ page.description | default: site.description }}</h2>
+      <h2>{{ page.description | default: site.description }}</h2>
 
       {% if site.ctf.display %}
         <a class="btn" href="{{ site.ctf.url }}">Inscription {{ site.ctf.name }}</a>
