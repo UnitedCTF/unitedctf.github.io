@@ -1,3 +1,4 @@
+// Style
 .site-footer-club {
   &::after {
     content: ',';
@@ -8,4 +9,13 @@
   &:last-child:after {
     content: '';
   }
+}
+
+a {
+  text-decoration: underline;
+}
+
+
+.btn {
+  text-decoration: none;
 }
