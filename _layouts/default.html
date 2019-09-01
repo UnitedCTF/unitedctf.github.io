@@ -34,10 +34,7 @@
 
       <footer class="site-footer">
         <span class="site-footer-owner">
-            <a href="{{ site.url }}">UnitedCTF</a> est propulsé par
-            {% for club in site.data.clubs %}
-              <a class="site-footer-club" href="{{ club.url }}">{{ club.name }}</a>
-            {% endfor %}
+            <a href="{{ site.url }}">UnitedCTF</a> est propulsé par{% for club in site.data.clubs %} <a class="site-footer-club" href="{{ club.url }}">{{ club.name }}</a>{% endfor %}.
         </span>
         <span class="site-footer-credits">
           Contactez nous sur notre <a href="{{ site.slack_inscription_url }}">Slack</a>.
