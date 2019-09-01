@@ -3,7 +3,7 @@ layout: default
 title: "UnitedCTF"
 ---
 
-**UnitedCTF** est une compétition amicale informatique dans le format d'un **CTF**, proposant une multitude de défis de programmation et de sécurité. 
+**UnitedCTF** est une compétition informatique universitaire dans le format d'un **CTF**, proposant une multitude de défis de programmation et de sécurité. 
 
 Le niveau de difficulté des défis varie de _très facile_ à _difficile_. Cette compétition est donc idéale pour les personnes débutantes en informatique, n'ayant jamais fait de compétition, de même que pour les personnes déjà initiées.
  
