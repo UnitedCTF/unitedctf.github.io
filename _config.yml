@@ -7,7 +7,7 @@ ctf:
   display: true
   place: "en ligne"
   name: "édition 2019"
-  url: "https://unitedctf.ca/"
+  url: "https://ctf.unitedctf.ca/"
   date: "Du vendredi 20 septembre au dimanche 29 septembre"
 
 plugins:
