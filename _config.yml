@@ -8,7 +8,7 @@ ctf:
   place: "en ligne"
   name: "édition 2019"
   url: "https://ctf.unitedctf.ca/"
-  date: "Du vendredi 20 septembre au dimanche 29 septembre"
+  date: "Du vendredi 20 septembre 18:30 au dimanche 29 septembre 16:00 (heure de Montréal)"
 
 plugins:
   - "jekyll-seo-tag"
