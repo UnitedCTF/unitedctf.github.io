@@ -7,8 +7,8 @@ UnitedCTF website.
 
 ## Requirements
 
-- ruby
-- gem bundler
+- [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
+- [gem bundler](https://bundler.io/)
 
 ## Developement
 
