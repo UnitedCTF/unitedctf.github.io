@@ -29,3 +29,5 @@ Open your browser at [http://127.0.0.1:4000](http://127.0.0.1:4000).
 ## Deployment
 
 The deployment is made on [GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages).
+
+The current branch used for the deployement is `master`.
