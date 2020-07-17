@@ -4,7 +4,7 @@ description: "Compétition informatique universitaire"
 
 slack_inscription_url: https://join.slack.com/t/united-ctf/shared_invite/enQtNzMxNTU2NTk3NDA4LTQxMmRjYjkyZGRhMWI5MzU0NjJjNDgzODg5Zjg2ZDYyOWYwODQ3ZjRhOWEwNzA5MGM3OWE2MTc4ZWQ0OTE5MmQ
 ctf:
-  display: true
+  display: false
   place: "en ligne"
   name: "édition 2019"
   url: "https://ctf.unitedctf.ca/"
