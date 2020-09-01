@@ -3,9 +3,9 @@ layout: default
 title: "UnitedCTF"
 ---
 
-**UnitedCTF** est une compétition informatique universitaire dans le format d'un **CTF**, proposant une multitude de défis de programmation et de sécurité. 
+**UnitedCTF** est une compétition informatique universitaire dans le format d'un **[CTF](#quest-ce-quun-ctf)**, proposant une multitude de défis de programmation et de sécurité informatique. 
 
-Le niveau de difficulté des défis varie de _très facile_ à _difficile_. Cette compétition est donc idéale pour les personnes débutantes en informatique, n'ayant jamais fait de compétition, de même que pour les personnes déjà initiées.
+Cette année, le niveau de la compétition sera très orienté vers les débutants et débutantes afin de les initier au monde des CTF!
  
 **UnitedCTF** est une collaboration des clubs informatiques universitaires suivants:
 <ul>  
@@ -15,6 +15,15 @@ Le niveau de difficulté des défis varie de _très facile_ à _difficile_. Cett
   </li>
   {% endfor %}
 </ul>
+
+## Date de la prochaine édition
+Le UnitedCTF 2020 aura lieu du <b>18 septembre 18h30</b> au <b>27 septembre 16h</b>. Ajoutez-le à votre calendrier!
+
+## Rejoignez la discussion
+Si ce n'est pas déjà fait, inscrivez-vous sur notre groupe Slack pour rester à l'affût de toutes les annonces en lien au UnitedCTF!
+
+- [Lien pour s'inscrire au groupe Slack]({{ site.slack_inscription_url }})
+- [Lien du groupe Slack](https://united-ctf.slack.com) (pour ceux et celles déjà inscrit.e.s)
 
 ## Qu'est-ce qu'un CTF?
 
@@ -27,5 +36,4 @@ Un **CTF**, sigle de **[Capture The Flag](https://fr.wikipedia.org/wiki/Capture_
 
 - {{ site.ctf.place | capitalize }}
 - [Inscrivez vous]({{ site.ctf.url }})
-- [Rejoignez notre Slack]({{ site.slack_inscription_url }})
 {% endif %}

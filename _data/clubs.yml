@@ -9,3 +9,7 @@
 - name: "CFIUL"
   url: "https://cfiul.ca"
   university_name: "l'Université Laval"
+
+- name: "AGEEI"
+  url: "http://bdc-ageei.org/"
+  university_name: "l'UQAM"
