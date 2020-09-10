@@ -1,6 +1,22 @@
 lang: "fr"
 title: "UnitedCTF"
-description: "Compétition informatique universitaire"
+tagline: "Compétition informatique universitaire"
+description: "Compétition informatique universitaire québécoise en ligne dans le format d’un CTF, proposant une multitude de défis de programmation et de sécurité."
+url: https://www.unitedctf.ca/
+logo: /assets/images/logo/logo_color_alpha.png
+twitter:
+  username: UnitedCTF
+  card: summary
+facebook:
+  publisher: https://www.facebook.com/UnitedCTF
+webmaster_verifications:
+  google: "hqnev_UKSSO3igq-QPNzwuS-Y0IeZyOq74PIm7dXpoE"
+social:
+  name: UnitedCTF
+  links:
+    - https://twitter.com/UnitedCTF
+    - https://www.facebook.com/UnitedCTF
+    - https://github.com/UnitedCTF
 
 slack_url: https://united-ctf.slack.com
 slack_inscription_url: https://join.slack.com/t/united-ctf/shared_invite/enQtNzMxNTU2NTk3NDA4LTQxMmRjYjkyZGRhMWI5MzU0NjJjNDgzODg5Zjg2ZDYyOWYwODQ3ZjRhOWEwNzA5MGM3OWE2MTc4ZWQ0OTE5MmQ
