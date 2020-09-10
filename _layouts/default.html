@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: 'en-US' }}">
   <head>
       <meta name="google-site-verification" content="hqnev_UKSSO3igq-QPNzwuS-Y0IeZyOq74PIm7dXpoE" />
     {% if site.google_analytics %}
@@ -12,7 +12,7 @@
       </script>
     {% endif %}
     <meta charset="UTF-8">
-{% seo %}
+    {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
@@ -24,7 +24,7 @@
       <img width="350px" src="assets/images/logo/logo_white_alpha.png" alt="Logo UnitedCTF">
       <h2>{{ page.description | default: site.description }}</h2>
 
-      {% if site.ctf.display %}
+      {% if site.ctf.registration_enabled %}
         <a class="btn" href="{{ site.ctf.url }}">Inscription {{ site.ctf.name }}</a>
       {% endif %}
     </header>
