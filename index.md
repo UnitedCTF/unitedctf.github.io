@@ -17,7 +17,7 @@ Cette année, le niveau de la compétition sera très orienté vers les débutan
 </ul>
 
 {% if site.ctf.display %}
-## {{ site.ctf.name }}
+# {{ site.ctf.name }}
 
 Le {{ site.ctf.name }} aura lieu du <b>{{ site.ctf.date_start }}</b> au <b>{{ site.ctf.date_end }}</b>. 
 
@@ -28,14 +28,14 @@ Ajoutez-le à votre calendrier!
 {% endif %}
 {% endif %}
 
-## Rejoignez la discussion
+# Rejoignez la discussion
 
 Si ce n'est pas déjà fait, inscrivez-vous sur notre groupe Slack pour rester à l'affût de toutes les annonces en lien au UnitedCTF!
 
 - [Lien pour s'inscrire au groupe Slack]({{ site.slack_inscription_url }})
 - [Lien du groupe Slack]({{ site.slack_url }}) (pour ceux et celles déjà inscrit.e.s)
 
-## Qu'est-ce qu'un CTF?
+# Qu'est-ce qu'un CTF?
 
 Un **CTF**, sigle de **[Capture The Flag](https://fr.wikipedia.org/wiki/Capture_du_drapeau#En_s%C3%A9curit%C3%A9_de_l'information)** (_Capture du drapeau_), est une compétition informatique dont le but est d'obtenir le plus de points. Les points sont ramassés en soumettant des *flags* dans le système de pointage. Un drapeau est une chaîne de caractère secrète, que l'on obtient lorsque l'on résout un défi.
 

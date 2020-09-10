@@ -31,3 +31,15 @@ ctf:
 
 plugins:
   - "jekyll-seo-tag"
+
+contacts:
+  - name: Facebook
+    link: https://www.facebook.com/UnitedCTF
+  - name: Twitter
+    link: https://twitter.com/UnitedCTF
+  - name: GitHub
+    link: https://github.com/UnitedCTF
+  - name: Slack
+    link: https://united-ctf.slack.com
+
+
