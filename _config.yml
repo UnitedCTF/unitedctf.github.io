@@ -1,14 +1,48 @@
+# General + SEO
 lang: "fr"
 title: "UnitedCTF"
-description: "Compétition informatique universitaire"
+tagline: "Compétition informatique universitaire"
+description: "Compétition informatique universitaire québécoise en ligne dans le format d’un CTF, proposant une multitude de défis de programmation et de sécurité."
+url: https://www.unitedctf.ca/
+logo: /assets/images/logo/logo_color_alpha.png
+twitter:
+  username: UnitedCTF
+  card: summary
+facebook:
+  publisher: https://www.facebook.com/UnitedCTF
+webmaster_verifications:
+  google: "hqnev_UKSSO3igq-QPNzwuS-Y0IeZyOq74PIm7dXpoE"
+social:
+  name: UnitedCTF
+  links:
+    - https://twitter.com/UnitedCTF
+    - https://www.facebook.com/UnitedCTF
+    - https://github.com/UnitedCTF
+google_analytics: UA-40199182-2
 
-slack_inscription_url: https://join.slack.com/t/united-ctf/shared_invite/enQtNzMxNTU2NTk3NDA4LTQxMmRjYjkyZGRhMWI5MzU0NjJjNDgzODg5Zjg2ZDYyOWYwODQ3ZjRhOWEwNzA5MGM3OWE2MTc4ZWQ0OTE5MmQ
-ctf:
-  display: false
-  place: "en ligne"
-  name: "édition 2019"
-  url: "https://ctf.unitedctf.ca/"
-  date: "Du vendredi 20 septembre 18:30 au dimanche 29 septembre 16:00 (heure de Montréal)"
-
+# Plugins
 plugins:
   - "jekyll-seo-tag"
+
+# Custom
+slack_url: https://united-ctf.slack.com
+slack_inscription_url: https://join.slack.com/t/united-ctf/shared_invite/enQtNzMxNTU2NTk3NDA4LTQxMmRjYjkyZGRhMWI5MzU0NjJjNDgzODg5Zjg2ZDYyOWYwODQ3ZjRhOWEwNzA5MGM3OWE2MTc4ZWQ0OTE5MmQ
+ctf:
+  display: true
+  registration_enabled: true
+  place: "en ligne"
+  name: "UnitedCTF 2020"
+  url: "https://ctf.unitedctf.ca/"
+  date_start: "18 septembre 18h30"
+  date_end: "27 septembre 16h"
+contacts:
+  - name: Facebook
+    link: https://www.facebook.com/UnitedCTF
+  - name: Twitter
+    link: https://twitter.com/UnitedCTF
+  - name: GitHub
+    link: https://github.com/UnitedCTF
+  - name: Slack
+    link: https://united-ctf.slack.com
+
+

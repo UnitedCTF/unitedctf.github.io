@@ -21,3 +21,20 @@ a {
   background-color: transparent;
   border: none;
 }
+
+.contacts {
+  margin: 1rem 0;
+}
+
+.contacts-logo {
+  width: 3rem;
+  height: 3rem;
+}
+
+.contacts-link {
+  margin-right: 1rem;
+  text-decoration: none;
+  &:hover {
+    text-decoration: none;
+  }
+}
