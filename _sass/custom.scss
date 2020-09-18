@@ -38,3 +38,15 @@ a {
     text-decoration: none;
   }
 }
+
+
+.sponsors {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.sponsor {
+  padding: 1rem;
+}

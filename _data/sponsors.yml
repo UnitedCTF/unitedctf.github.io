@@ -1,0 +1,14 @@
+- name: "Kimoby"
+  url: "https://www.kimoby.com/"
+  image_url: "/assets/images/sponsors/Kimoby.png"
+  image_width: "200"
+
+- name: "Desjardins"
+  url: "https://www.desjardins.com/"
+  image_url: "/assets/images/sponsors/Desjardins.png"
+  image_width: "350"
+
+- name: "Google Cloud"
+  url: "https://cloud.google.com/"
+  image_url: "/assets/images/sponsors/Google Cloud.png"
+  image_width: "350"
