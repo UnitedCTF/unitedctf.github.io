@@ -28,8 +28,8 @@ plugins:
 slack_url: https://united-ctf.slack.com
 slack_inscription_url: https://join.slack.com/t/united-ctf/shared_invite/enQtNzMxNTU2NTk3NDA4LTQxMmRjYjkyZGRhMWI5MzU0NjJjNDgzODg5Zjg2ZDYyOWYwODQ3ZjRhOWEwNzA5MGM3OWE2MTc4ZWQ0OTE5MmQ
 ctf:
-  display: true
-  registration_enabled: true
+  display: false
+  registration_enabled: false
   place: "en ligne"
   name: "UnitedCTF 2020"
   url: "https://ctf.unitedctf.ca/"
