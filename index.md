@@ -3,12 +3,12 @@ layout: default
 title: "UnitedCTF"
 ---
 
-**UnitedCTF** est une compétition informatique universitaire dans le format d'un **[CTF](#quest-ce-quun-ctf)**, proposant une multitude de défis de programmation et de sécurité informatique. 
+**UnitedCTF** est une compétition informatique universitaire dans le format d'un **[CTF](#quest-ce-quun-ctf)**, proposant une multitude de défis de programmation et de sécurité informatique.
 
 Cette année, le niveau de la compétition est orienté vers les débutants et débutantes afin de les initier au monde des CTF!
- 
+
 **UnitedCTF** est une collaboration des clubs informatiques universitaires suivants:
-<ul>  
+<ul>
   {% for club in site.data.clubs %}
   <li>
     <b><a href="{{ club.url }}">{{ club.name }}</a></b> de {{ club.university_name }}
@@ -19,7 +19,7 @@ Cette année, le niveau de la compétition est orienté vers les débutants et d
 {% if site.ctf.display %}
 # {{ site.ctf.name }}
 
-Le {{ site.ctf.name }} aura lieu du <b>{{ site.ctf.date_start }}</b> au <b>{{ site.ctf.date_end }}</b>. 
+Le {{ site.ctf.name }} aura lieu du <b>{{ site.ctf.date_start }}</b> au <b>{{ site.ctf.date_end }}</b>.
 
 {% if site.ctf.registration_enabled %}
  [Inscription]({{ site.ctf.url }})
@@ -30,10 +30,16 @@ Ajoutez-le à votre calendrier!
 
 # Rejoignez la discussion
 
-Si ce n'est pas déjà fait, inscrivez-vous sur notre groupe Slack pour rester à l'affût de toutes les annonces en lien au UnitedCTF!
+Si ce n'est pas déjà fait, inscrivez-vous sur notre groupe Discord pour rester à l'affût de toutes les annonces en lien au UnitedCTF!
 
-- [Lien pour s'inscrire au groupe Slack]({{ site.slack_inscription_url }})
-- [Lien du groupe Slack]({{ site.slack_url }}) (pour ceux et celles déjà inscrit.e.s)
+<ul>
+  {% if site.discord_inscription_url %}
+    <li><a href="{{ site.discord_inscription_url }}">Inscription au groupe Discord</a></li>
+  {% endif %}
+  {% if site.discord_url %}
+    <li><a href="{{ site.discord_url }}">Accéder au groupe Discord</a> (pour ceux et celles déjà inscrit.e.s)</li>
+  {% endif %}
+</ul>
 
 # Qu'est-ce qu'un CTF?
 
