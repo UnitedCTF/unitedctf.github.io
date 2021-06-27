@@ -15,6 +15,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <!-- Bootstracp icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
@@ -38,13 +40,12 @@
         </span>
         <div class="site-footer-credits contacts">
           {% for contact in site.contacts %}
-          <a href="{{ contact.link }}" class="contacts-link">
-            <img
-              class="contacts-logo"
-              src="assets/images/{{ contact.name | downcase }}.png"
-              alt="{{ contact.name }}">
-          </a>
-        {% endfor %}
+            {% if contact.link %}
+              <a href="{{ contact.link }}" class="contacts-link">
+                <i class="contacts-logo bi bi-{{ contact.name | downcase }}" role="img"></i>
+              </a>
+            {% endif %}
+          {% endfor %}
         </div>
       </footer>
     </main>
