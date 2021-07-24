@@ -4,7 +4,7 @@
 
 - name: "DCIÉTS"
   url: "https://dciets.com"
-  university_name: "l'École de technologie supérieure"
+  university_name: "l'École de Technologie Supérieure"
 
 - name: "CFIUL"
   url: "https://cfiul.ca"
@@ -13,3 +13,15 @@
 - name: "AGEEI"
   url: "http://bdc-ageei.org/"
   university_name: "l'UQAM"
+
+- name: "PolyHx"
+  url: "https://polyhx.io/"
+  university_name: "l'École Polytechnique Montréal"
+
+- name: "SCS"
+  url: "https://scsconcordia.com/"
+  university_name: "l'Université Concordia"
+
+- name: "RHUM"
+  url: "https://www.umontreal.ca/"
+  university_name: "l'Université de Montréal"
