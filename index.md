@@ -30,10 +30,9 @@ Ajoutez-le à votre calendrier!
 
 # Rejoignez la discussion
 
-Si ce n'est pas déjà fait, inscrivez-vous sur notre groupe Slack pour rester à l'affût de toutes les annonces en lien au UnitedCTF!
+Si ce n'est pas déjà fait, inscrivez-vous sur notre serveur Discord pour rester à l'affût de toutes les annonces en lien au UnitedCTF!
 
-- [Lien pour s'inscrire au groupe Slack]({{ site.slack_inscription_url }})
-- [Lien du groupe Slack]({{ site.slack_url }}) (pour ceux et celles déjà inscrit.e.s)
+- [Lien pour joindre notre serveur Discord]({{ site.discord_invite_link }})
 
 # Qu'est-ce qu'un CTF?
 
