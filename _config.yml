@@ -29,13 +29,13 @@ slack_url: https://united-ctf.slack.com
 slack_inscription_url: https://join.slack.com/t/united-ctf/shared_invite/enQtNzMxNTU2NTk3NDA4LTQxMmRjYjkyZGRhMWI5MzU0NjJjNDgzODg5Zjg2ZDYyOWYwODQ3ZjRhOWEwNzA5MGM3OWE2MTc4ZWQ0OTE5MmQ
 discord_invite_link: https://discord.gg/3jwhzDVSN3
 ctf:
-  display: false
+  display: true
   registration_enabled: false
   place: "en ligne"
-  name: "UnitedCTF 2020"
+  name: "UnitedCTF 2021"
   url: "https://ctf.unitedctf.ca/"
-  date_start: "18 septembre 18h30"
-  date_end: "27 septembre 16h"
+  date_start: "17 septembre 18h30"
+  date_end: "26 septembre 16h"
 contacts:
   - name: Facebook
     link: https://www.facebook.com/UnitedCTF

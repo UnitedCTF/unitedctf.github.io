@@ -1,8 +1,3 @@
-- name: "Kimoby"
-  url: "https://www.kimoby.com/"
-  image_url: "/assets/images/sponsors/Kimoby.png"
-  image_width: "200"
-
 - name: "Desjardins"
   url: "https://www.desjardins.com/"
   image_url: "/assets/images/sponsors/Desjardins.png"
@@ -11,4 +6,9 @@
 - name: "ESET"
   url: "https://www.eset.com/"
   image_url: "/assets/images/sponsors/ESET.png"
-  image_width: "100"
+  image_width: "120"
+
+- name: "Kimoby"
+  url: "https://www.kimoby.com/"
+  image_url: "/assets/images/sponsors/Kimoby.png"
+  image_width: "230"
