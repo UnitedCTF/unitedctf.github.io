@@ -12,3 +12,8 @@
   url: "https://www.kimoby.com/"
   image_url: "/assets/images/sponsors/Kimoby.png"
   image_width: "230"
+
+- name: "Genetec"
+  url: "https://www.genetec.com/"
+  image_url: "/assets/images/sponsors/Genetec.jpg"
+  image_width: "350"
