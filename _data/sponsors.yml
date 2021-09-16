@@ -6,12 +6,12 @@
 - name: "ESET"
   url: "https://www.eset.com/"
   image_url: "/assets/images/sponsors/ESET.png"
-  image_width: "120"
+  image_width: "150"
 
 - name: "Kimoby"
   url: "https://www.kimoby.com/"
   image_url: "/assets/images/sponsors/Kimoby.png"
-  image_width: "230"
+  image_width: "350"
 
 - name: "Genetec"
   url: "https://www.genetec.com/"
