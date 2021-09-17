@@ -29,7 +29,7 @@ slack_url: https://united-ctf.slack.com
 slack_inscription_url: https://join.slack.com/t/united-ctf/shared_invite/enQtNzMxNTU2NTk3NDA4LTQxMmRjYjkyZGRhMWI5MzU0NjJjNDgzODg5Zjg2ZDYyOWYwODQ3ZjRhOWEwNzA5MGM3OWE2MTc4ZWQ0OTE5MmQ
 discord_invite_link: https://discord.gg/3jwhzDVSN3
 ctf:
-  display: false
+  display: true
   registration_enabled: true
   place: "en ligne"
   name: "UnitedCTF 2021"
