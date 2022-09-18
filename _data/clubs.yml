@@ -26,6 +26,6 @@
 #   url: "https://scsconcordia.com/"
 #   university_name: "l'Université Concordia"
 
-# - name: "RHUM"
-#   url: "https://www.umontreal.ca/"
-#   university_name: "l'Université de Montréal"
+- name: "RHUM"
+  url: "https://www.umontreal.ca/"
+  university_name: "l'Université de Montréal"
