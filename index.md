@@ -55,7 +55,7 @@ Merci à nos partenaires!
   {% endfor %}
   </div>
 
-  Notre infrastructure est commandité par :
+  Notre infrastructure est commanditée par :
   <div class="sponsors">
   {% for sponsor in site.data.sponsors_infra %}
     <div class="sponsor">
