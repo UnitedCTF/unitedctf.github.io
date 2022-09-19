@@ -54,4 +54,15 @@ Merci à nos partenaires!
     </div>
   {% endfor %}
   </div>
+
+  Notre infrastructure est commandité par :
+  <div class="sponsors">
+  {% for sponsor in site.data.sponsors_infra %}
+    <div class="sponsor">
+      <a href="{{ sponsor.url }}" target="_blank">
+        <img width="{{ sponsor.image_width }}" src="{{ sponsor.image_url }}" alt="{{ sponsor.name }}"/>
+      </a>
+    </div>
+  {% endfor %}
+  </div>
 {% endif %}
