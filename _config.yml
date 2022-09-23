@@ -30,11 +30,11 @@ plugins:
 discord_invite_link: https://discord.gg/3jwhzDVSN3
 ctf:
   display: true
-  registration_enabled: false
+  registration_enabled: true
   place: "en ligne"
   name: "UnitedCTF 2022"
   url: "https://ctf.unitedctf.ca/"
-  date_start: "30 septembre 18h30"
+  date_start: "30 septembre 17h00"
   date_end: "7 octobre 13h"
 contacts:
   - name: Facebook
