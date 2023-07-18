@@ -15,7 +15,11 @@
   university_name: "l'Université Laval"
 
 - name: AEMI
-  university_name: Université du Québec à Chicoutimi 
+  university_name: l'Université du Québec à Chicoutimi 
+
+- name: "PolyCyber"
+  # url: "https://polyhx.io/"
+  university_name: "Polytechnique Montréal"
 
 # - name: "ApplETS"
 #   url: "https://clubapplets.ca"
@@ -28,10 +32,6 @@
 # - name: "AGEEI"
 #   url: "http://bdc-ageei.org/"
 #   university_name: "l'UQAM"
-
-# - name: "PolyHx"
-#   url: "https://polyhx.io/"
-#   university_name: "l'École Polytechnique Montréal"
 
 # - name: "RHUM"
 #   url: "http://aediroum.iro.umontreal.ca/"
