@@ -6,6 +6,17 @@
   url: "/jdis"
   university_name: "l'Université de Sherbrooke"
 
+- name: "SCS"
+  # url: "https://scsconcordia.com/"
+  university_name: "l'Université Concordia"
+
+- name: "CFIUL"
+  # url: "https://cfiul.ca"
+  university_name: "l'Université Laval"
+
+- name: AEMI
+  university_name: Université du Québec à Chicoutimi 
+
 # - name: "ApplETS"
 #   url: "https://clubapplets.ca"
 #   university_name: "l'École de Technologie Supérieure"
@@ -21,10 +32,6 @@
 # - name: "PolyHx"
 #   url: "https://polyhx.io/"
 #   university_name: "l'École Polytechnique Montréal"
-
-# - name: "SCS"
-#   url: "https://scsconcordia.com/"
-#   university_name: "l'Université Concordia"
 
 # - name: "RHUM"
 #   url: "http://aediroum.iro.umontreal.ca/"
