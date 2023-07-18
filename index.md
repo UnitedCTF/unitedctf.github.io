@@ -11,7 +11,7 @@ Cette année, le niveau de la compétition est orienté vers les débutants et d
 <ul>  
   {% for club in site.data.clubs %}
   <li>
-    <b><a href="{{ club.url }}" target="_blank">{{ club.name }}</a></b> de {{ club.university_name }}
+    <b><a href="{{ club.url }}">{{ club.name }}</a></b> de {{ club.university_name }}
   </li>
   {% endfor %}
 </ul>
@@ -39,8 +39,6 @@ Si ce n'est pas déjà fait, inscrivez-vous sur notre serveur Discord pour reste
 
 Un **CTF**, sigle de **[Capture The Flag](https://fr.wikipedia.org/wiki/Capture_du_drapeau#En_s%C3%A9curit%C3%A9_de_l'information)** (_Capture du drapeau_), est une compétition informatique dont le but est d'obtenir le plus de points. Les points sont ramassés en soumettant des _flags_ dans le système de pointage. Un drapeau est une chaîne de caractère secrète, que l'on obtient lorsque l'on résout un défi.
 
-{% if site.ctf.display %}
-
 ## Partenaires
 
 Merci à nos partenaires!
@@ -65,4 +63,5 @@ Merci à nos partenaires!
     </div>
   {% endfor %}
   </div>
-{% endif %}
+
+Vous souhaitez nous appuyer? Jetez un coup d'oeil à notre <a href="/UnitedCTF-Plan-Partenariat.pdf" target="_blank">plan de partenariat</a>

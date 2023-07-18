@@ -1,14 +1,14 @@
+- name: "DCIÉTS"
+  url: "/dciets"
+  university_name: "l'École de Technologie Supérieure"
+
 - name: "JDIS"
-  url: "https://jdis.ca/"
+  url: "/jdis"
   university_name: "l'Université de Sherbrooke"
 
-- name: "DCIÉTS"
-  url: "https://dciets.com"
-  university_name: "l'École de Technologie Supérieure"
-
-- name: "ApplETS"
-  url: "https://clubapplets.ca"
-  university_name: "l'École de Technologie Supérieure"
+# - name: "ApplETS"
+#   url: "https://clubapplets.ca"
+#   university_name: "l'École de Technologie Supérieure"
 
 # - name: "CFIUL"
 #   url: "https://cfiul.ca"
@@ -26,6 +26,6 @@
 #   url: "https://scsconcordia.com/"
 #   university_name: "l'Université Concordia"
 
-- name: "RHUM"
-  url: "http://aediroum.iro.umontreal.ca/"
-  university_name: "l'Université de Montréal"
+# - name: "RHUM"
+#   url: "http://aediroum.iro.umontreal.ca/"
+#   university_name: "l'Université de Montréal"

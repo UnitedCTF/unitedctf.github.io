@@ -4,7 +4,6 @@
 
 UnitedCTF website.
 
-
 ## Requirements
 
 - [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
@@ -34,6 +33,4 @@ The current branch used for the deployement is `master`.
 
 ## Docker
 
-```
-docker run -p 4000:4000 --volume="$PWD:/srv/jekyll" -it jekyll/jekyll jekyll serve
-```
+Avec Docker installé, utilisez la commande `docker-compose up` dans le répertoire racine du dépot. Vous pourrez accéder au site sur `http://localhost:4000/`.

@@ -5,9 +5,9 @@ tagline: "Compétition informatique universitaire"
 description: "Compétition informatique universitaire québécoise en ligne dans le format d’un CTF, proposant une multitude de défis de programmation et de sécurité."
 url: https://www.unitedctf.ca/
 logo: /assets/images/logo/logo_color_alpha.png
-twitter:
-  username: UnitedCTF
-  card: summary
+# twitter:
+#   username: UnitedCTF
+#   card: summary
 facebook:
   publisher: https://www.facebook.com/UnitedCTF
 webmaster_verifications:
@@ -15,7 +15,7 @@ webmaster_verifications:
 social:
   name: UnitedCTF
   links:
-    - https://twitter.com/UnitedCTF
+    # - https://twitter.com/UnitedCTF
     - https://www.facebook.com/UnitedCTF
     - https://github.com/UnitedCTF
 google_analytics: UA-40199182-2
@@ -29,18 +29,18 @@ plugins:
 # slack_inscription_url: https://join.slack.com/t/united-ctf/shared_invite/enQtNzMxNTU2NTk3NDA4LTQxMmRjYjkyZGRhMWI5MzU0NjJjNDgzODg5Zjg2ZDYyOWYwODQ3ZjRhOWEwNzA5MGM3OWE2MTc4ZWQ0OTE5MmQ
 discord_invite_link: https://discord.gg/3jwhzDVSN3
 ctf:
-  display: true
-  registration_enabled: true
+  display: false
+  registration_enabled: false
   place: "en ligne"
-  name: "UnitedCTF 2022"
+  name: "UnitedCTF 2023"
   url: "https://ctf.unitedctf.ca/"
   date_start: "30 septembre 18h30"
   date_end: "7 octobre 13h"
 contacts:
   - name: Facebook
     link: https://www.facebook.com/UnitedCTF
-  - name: Twitter
-    link: https://twitter.com/UnitedCTF
+  # - name: Twitter
+  #   link: https://twitter.com/UnitedCTF
   - name: GitHub
     link: https://github.com/UnitedCTF
 #  - name: Slack
