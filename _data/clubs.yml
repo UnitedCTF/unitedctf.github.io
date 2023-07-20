@@ -1,9 +1,9 @@
 - name: "DCIÉTS"
-  url: "/dciets"
+  url: "/club/dciets"
   university_name: "l'École de Technologie Supérieure"
 
 - name: "JDIS"
-  url: "/jdis"
+  url: "/club/jdis"
   university_name: "l'Université de Sherbrooke"
 
 - name: "SCS"
@@ -21,13 +21,11 @@
   # url: "https://polyhx.io/"
   university_name: "Polytechnique Montréal"
 
+- name: CSI-CSTJEAN
+  university_name: Cégep Saint-Jean-sur-Richelieu
 # - name: "ApplETS"
 #   url: "https://clubapplets.ca"
 #   university_name: "l'École de Technologie Supérieure"
-
-# - name: "CFIUL"
-#   url: "https://cfiul.ca"
-#   university_name: "l'Université Laval"
 
 # - name: "AGEEI"
 #   url: "http://bdc-ageei.org/"

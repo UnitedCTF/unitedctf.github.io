@@ -11,7 +11,11 @@ Cette année, le niveau de la compétition est orienté vers les débutants et d
 <ul>  
   {% for club in site.data.clubs %}
   <li>
-    <b><a href="{{ club.url }}">{{ club.name }}</a></b> de {{ club.university_name }}
+    {% if club.url %}
+      <b><a href="{{ club.url }}">{{ club.name }}</a></b> de {{ club.university_name }}
+    {% else %}
+      <b>{{ club.name }}</b> de {{ club.university_name }}
+    {% endif %}
   </li>
   {% endfor %}
 </ul>
@@ -38,6 +42,29 @@ Si ce n'est pas déjà fait, inscrivez-vous sur notre serveur Discord pour reste
 ## Qu'est-ce qu'un CTF?
 
 Un **CTF**, sigle de **[Capture The Flag](https://fr.wikipedia.org/wiki/Capture_du_drapeau#En_s%C3%A9curit%C3%A9_de_l'information)** (_Capture du drapeau_), est une compétition informatique dont le but est d'obtenir le plus de points. Les points sont ramassés en soumettant des _flags_ dans le système de pointage. Un drapeau est une chaîne de caractère secrète, que l'on obtient lorsque l'on résout un défi.
+
+## Ressources utiles
+
+  <ul>
+    <li><a href="https://www.google.com" target="_blank">Google</a>! Sérieusement, utiliser Google (ou n'importe quel autre moteur de recherches) pour faire des recherches sur tout ce que vous ne savez pas dans un CTF est la meilleure habitude à prendre.</li>
+    <li><a href="https://gchq.github.io/CyberChef/" target="_blank">CyberChef</a>: un outil en ligne pour faire des
+        opérations de cryptographie ou de conversion d'un encodage à un autre (e.g: décoder de l'hexadécimal / base64). Il
+        est même possible d'enchaîner plusieurs transformations!</li>
+    <li><a href="https://github.com/gchq/CyberChef#how-it-works" target="_blank">CyberChef: How it works</a>: explications
+        et exemples d'utilisation de CyberChef.</li>
+    <li><a href="https://docs.google.com/presentation/d/11IYBrpSES1l3gUTqPEQs7TsR9ngiUphuOWH0sBaxtKs/edit?usp=sharing"
+            target="_blank">Présentation "Compétition Informatique 101"</a> par le club CFIUL.</li>
+    <li><a href="https://ctf101.org/" target="_blank">CTF 101</a>: des explications sur les catégories et concepts qu'on
+        retrouve souvent dans les CTFs.</li>
+    <li><a href="https://ryanstutorials.net/linuxtutorial/" target="_blank">Linux Tutorial for Beginners</a></li>
+    <li><a href="https://www.mathsisfun.com/hexadecimals.html" target="_blank">Hexadecimals</a></li>
+    <li><a href="https://www.lifewire.com/base64-encoding-overview-1166412" target="_blank">How Base64 Encoding Works</a>
+    </li>
+    <li><a href="https://beginnersbook.com/2015/04/json-tutorial/" target="_blank">Learn JSON in 10 Minutes</a></li>
+    <li><a href="https://docs.oracle.com/javase/tutorial/networking/sockets/definition.html" target="_blank">What Is a
+            Socket?</a></li>
+    <li><a href="https://www.varonis.com/blog/how-to-use-wireshark/" target="_blank">How to Use Wireshark</a></li>
+  </ul>
 
 ## Partenaires
 
