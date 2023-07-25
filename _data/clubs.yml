@@ -18,7 +18,7 @@
   university_name: l'Université du Québec à Chicoutimi 
 
 - name: "PolyCyber"
-  # url: "https://polyhx.io/"
+  url: "/club/polycyber"
   university_name: "Polytechnique Montréal"
 
 - name: CSI-CSTJEAN
