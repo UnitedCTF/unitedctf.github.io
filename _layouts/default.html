@@ -23,7 +23,7 @@
 
   <header class="page-header" role="banner">
     <a href="/">
-      <img width="350px" src="assets/images/logo/logo_white_alpha.png" alt="Logo UnitedCTF">
+      <img width="350px" src="/assets/images/logo/logo_white_alpha.png" alt="Logo UnitedCTF">
     </a>
     <h2>{{ page.description | default: site.tagline }}</h2>
     {% if site.ctf.registration_enabled %}
@@ -47,7 +47,7 @@
       <div class="site-footer-credits contacts">
         {% for contact in site.contacts %}
         <a href="{{ contact.link }}" class="contacts-link" target="_blank">
-          <img class="contacts-logo" src="assets/images/{{ contact.name | downcase }}.png" alt="{{ contact.name }}">
+          <img class="contacts-logo" src="/assets/images/{{ contact.name | downcase }}.png" alt="{{ contact.name }}">
         </a>
         {% endfor %}
       </div>

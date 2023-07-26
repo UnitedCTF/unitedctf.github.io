@@ -23,6 +23,7 @@
 
 - name: CSI-CSTJEAN
   university_name: Cégep Saint-Jean-sur-Richelieu
+
 # - name: "ApplETS"
 #   url: "https://clubapplets.ca"
 #   university_name: "l'École de Technologie Supérieure"
