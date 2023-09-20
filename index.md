@@ -64,6 +64,8 @@ Un **CTF**, sigle de **[Capture The Flag](https://fr.wikipedia.org/wiki/Capture_
     <li><a href="https://docs.oracle.com/javase/tutorial/networking/sockets/definition.html" target="_blank">What Is a
             Socket?</a></li>
     <li><a href="https://www.varonis.com/blog/how-to-use-wireshark/" target="_blank">How to Use Wireshark</a></li>
+    <li><a href="https://www.varonis.com/blog/how-to-use-ghidra" target="_blank">How to Use Ghidra</a></li>
+    <li><a href="https://www.geeksforgeeks.org/gdb-step-by-step-introduction/" target="_blank">How to Use GDB</a></li>
   </ul>
 
 ## Partenaires
