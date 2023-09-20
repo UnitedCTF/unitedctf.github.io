@@ -21,6 +21,11 @@
   url: "/club/polycyber"
   university_name: "Polytechnique Montréal"
 
+- name: "RHUM"
+  url: "/club/rhum"
+  university_name: "l'Université de Montréal"
+
+
 - name: CSI-CSTJEAN
   university_name: Cégep Saint-Jean-sur-Richelieu
 
@@ -32,6 +37,3 @@
 #   url: "http://bdc-ageei.org/"
 #   university_name: "l'UQAM"
 
-# - name: "RHUM"
-#   url: "http://aediroum.iro.umontreal.ca/"
-#   university_name: "l'Université de Montréal"
