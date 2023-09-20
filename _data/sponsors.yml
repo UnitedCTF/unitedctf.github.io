@@ -5,7 +5,7 @@
 
 - name: "Ministère de la Cybersécurité et du Numérique"
   url: "https://www.quebec.ca/gouvernement/ministere/cybersecurite-numerique"
-  image_url: "/assets/images/sponsors/MCN.png"
+  image_url: "/assets/images/sponsors/MCN.svg"
   image_width: "350"
 
 # - name: "ESET"
