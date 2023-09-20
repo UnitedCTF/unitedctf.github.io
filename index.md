@@ -80,7 +80,7 @@ Merci à nos partenaires!
   {% endfor %}
   </div>
 
-  Notre infrastructure est commanditée par :
+  <!-- Notre infrastructure est commanditée par :
   <div class="sponsors">
   {% for sponsor in site.data.sponsors_infra %}
     <div class="sponsor">
@@ -89,6 +89,6 @@ Merci à nos partenaires!
       </a>
     </div>
   {% endfor %}
-  </div>
+  </div> -->
 
 Vous souhaitez nous appuyer? Jetez un coup d'oeil à notre <a href="/UnitedCTF-Plan-Partenariat.pdf" target="_blank">plan de partenariat</a>
