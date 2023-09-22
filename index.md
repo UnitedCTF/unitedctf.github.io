@@ -75,9 +75,13 @@ Merci à nos partenaires!
   <div class="sponsors">
   {% for sponsor in site.data.sponsors %}
     <div class="sponsor">
-      <a href="{{ sponsor.url }}" target="_blank">
-        <img width="{{ sponsor.image_width }}" src="{{ sponsor.image_url }}" alt="{{ sponsor.name }}"/>
-      </a>
+      {% if  sponsor.image_url %}
+        <a href="{{ sponsor.url }}" target="_blank">
+          <img width="{{ sponsor.image_width }}" src="{{ sponsor.image_url }}" alt="{{ sponsor.name }}"/>
+        </a>
+      {% else %}
+        <p>{{ sponsor.name }}</p>
+      {% endif %}
     </div>
   {% endfor %}
   </div>

@@ -30,7 +30,7 @@ plugins:
 discord_invite_link: https://discord.gg/3jwhzDVSN3
 ctf:
   display: true
-  registration_enabled: false
+  registration_enabled: true
   place: "en ligne"
   name: "UnitedCTF 2023"
   url: "https://ctf.unitedctf.ca/"
