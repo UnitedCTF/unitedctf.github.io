@@ -10,8 +10,8 @@
   # url: "https://scsconcordia.com/"
   university_name: "l'Université Concordia"
 
-- name: "CFIUL"
-  # url: "https://cfiul.ca"
+- name: "CSIUL"
+  url: "http://clubsecuriteinformatique.ift.ulaval.ca/"
   university_name: "l'Université Laval"
 
 - name: AEMI
