@@ -24,6 +24,16 @@ google_analytics: UA-40199182-2
 plugins:
   - "jekyll-seo-tag"
 
+exclude:
+  - README.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - docker-compose.yml
+  - UnitedCTF-Plan-Partenariat.pdf
+  - assets/
+  - css/
+
 # Custom
 # slack_url: https://united-ctf.slack.com
 # slack_inscription_url: https://join.slack.com/t/united-ctf/shared_invite/enQtNzMxNTU2NTk3NDA4LTQxMmRjYjkyZGRhMWI5MzU0NjJjNDgzODg5Zjg2ZDYyOWYwODQ3ZjRhOWEwNzA5MGM3OWE2MTc4ZWQ0OTE5MmQ
@@ -32,10 +42,10 @@ ctf:
   display: true
   registration_enabled: true
   place: "en ligne"
-  name: "UnitedCTF 2023"
+  name: "UnitedCTF 2024"
   url: "https://ctf.unitedctf.ca/"
-  date_start: "22 septembre 18h"
-  date_end: "29 septembre 13h"
+  date_start: "13 septembre 18h"
+  date_end: "20 septembre 13h"
 contacts:
   - name: Facebook
     link: https://www.facebook.com/UnitedCTF
@@ -47,3 +57,5 @@ contacts:
 #    link: https://united-ctf.slack.com
   - name: Discord
     link: https://discord.gg/3jwhzDVSN3
+  - name: Instagram
+    link: https://www.instagram.com/united.ctf/
