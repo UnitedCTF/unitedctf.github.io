@@ -14,20 +14,9 @@
   url: "http://clubsecuriteinformatique.ift.ulaval.ca/"
   university_name: "l'Université Laval"
 
-- name: AEMI
-  university_name: l'Université du Québec à Chicoutimi 
-
 - name: "PolyCyber"
   url: "/club/polycyber"
   university_name: "Polytechnique Montréal"
-
-- name: "RHUM"
-  url: "/club/rhum"
-  university_name: "l'Université de Montréal"
-
-
-- name: CSI-CSTJEAN
-  university_name: Cégep Saint-Jean-sur-Richelieu
 
 # - name: "ApplETS"
 #   url: "https://clubapplets.ca"
