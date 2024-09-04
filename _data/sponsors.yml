@@ -25,3 +25,8 @@
 #   url: "https://www.genetec.com/"
 #   image_url: "/assets/images/sponsors/Genetec.jpg"
 #   image_width: "350"
+
+- name: "Hackfest"
+  url: "https://hackfest.ca/"
+  image_url: "/assets/images/sponsors/hackfest2024.png"
+  image_width: "150"
