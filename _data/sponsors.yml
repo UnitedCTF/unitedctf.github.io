@@ -1,7 +1,7 @@
-# - name: "Desjardins"
-#   url: "https://www.desjardins.com/"
-#   image_url: "/assets/images/sponsors/Desjardins.png"
-#   image_width: "350"
+- name: "Desjardins"
+  url: "https://www.desjardins.com/"
+  image_url: "/assets/images/sponsors/Desjardins.png"
+  image_width: "350"
 
 # - name: "Ministère de la Cybersécurité et du Numérique"
 #   url: "https://www.quebec.ca/gouvernement/ministere/cybersecurite-numerique"
@@ -29,4 +29,19 @@
 - name: "Hackfest"
   url: "https://hackfest.ca/"
   image_url: "/assets/images/sponsors/hackfest2024.png"
-  image_width: "150"
+  image_width: "200"
+
+- name: "IMC2"
+  url: "https://i-mc2.ca/"
+  image_url: "/assets/images/sponsors/imc2.svg"
+  image_width: "200"
+
+- name: "OVHcloud"
+  url: "https://www.ovhcloud.com/en-ca/"
+  image_url: "/assets/images/sponsors/ovhcloud.png"
+  image_width: "200"
+
+- name: "Bell"
+  url: "https://jobs.bell.ca/ca/fr/stages"
+  image_url: "/assets/images/sponsors/bell.png"
+  image_width: "100"
