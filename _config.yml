@@ -30,12 +30,12 @@ plugins:
 discord_invite_link: https://discord.gg/3jwhzDVSN3
 ctf:
   display: true
-  registration_enabled: true
+  registration_enabled: false
   place: "en ligne"
-  name: "UnitedCTF 2024"
+  name: "UnitedCTF 2025"
   url: "https://ctf.unitedctf.ca/"
-  date_start: "13 septembre 18h"
-  date_end: "20 septembre 13h"
+  date_start: "19 septembre 18h"
+  date_end: "26 septembre 13h"
 contacts:
   - name: Facebook
     link: https://www.facebook.com/UnitedCTF
