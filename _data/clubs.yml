@@ -11,12 +11,16 @@
   university_name: "l'Université Concordia"
 
 - name: "CSIUL"
-  url: "http://clubsecuriteinformatique.ift.ulaval.ca/"
+  url: "https://csi.ift.ulaval.ca/"
   university_name: "l'Université Laval"
 
 - name: "PolyCyber"
   url: "/club/polycyber"
   university_name: "Polytechnique Montréal"
+
+- name: "RHUM"
+  url: "/club/rhum"
+  university_name: "Université de Montréal"
 
 # - name: "ApplETS"
 #   url: "https://clubapplets.ca"
