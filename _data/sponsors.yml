@@ -8,9 +8,6 @@
   image_url: "/assets/images/sponsors/MCN.svg"
   image_width: "350"
 
-# - name: "Institut Multidisciplinaire en cybersécurité et cyberrésilience - IMC²"
-
-
 # - name: "ESET"
 #   url: "https://www.eset.com/"
 #   image_url: "/assets/images/sponsors/ESET.png"
@@ -31,10 +28,10 @@
 #  image_url: "/assets/images/sponsors/hackfest2024.png"
 #  image_width: "200"
 
-#- name: "IMC2"
-#  url: "https://i-mc2.ca/"
-#  image_url: "/assets/images/sponsors/imc2.svg"
-#  image_width: "200"
+- name: "IMC2"
+  url: "https://i-mc2.ca/"
+  image_url: "/assets/images/sponsors/imc2.svg"
+  image_width: "200"
 
 #- name: "OVHcloud"
 #  url: "https://www.ovhcloud.com/en-ca/"
