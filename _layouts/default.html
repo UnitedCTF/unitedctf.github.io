@@ -39,9 +39,9 @@
       <span class="site-footer-owner">
         <a href="{{ site.url }}">UnitedCTF</a> est propulsé par
         {% for club in site.data.clubs %}
-          {% if club.url %}<a class="site-footer-club" href="{{ club.url }}">{{ club.name }}</a>
-          {% else %} {{ club.name }}
-          {% endif %}
+          {% if club.url -%}<a class="site-footer-club" href="{{ club.url }}">{{ club.name }}</a>
+          {%- else -%}<span class="site-footer-club">{{ club.name }}</span>
+          {%- endif -%}
         {% endfor %}.
       </span>
       <div class="site-footer-credits contacts">
