@@ -8,6 +8,11 @@
   image_url: "/assets/images/sponsors/MCN.svg"
   image_width: "350"
 
+- name: "Cybereco"
+  url: "https://cybereco.ca/"
+  image_url: "/assets/images/sponsors/Cybereco.png"
+  image_width: "350"
+
 # - name: "ESET"
 #   url: "https://www.eset.com/"
 #   image_url: "/assets/images/sponsors/ESET.png"
