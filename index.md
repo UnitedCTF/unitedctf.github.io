@@ -74,17 +74,54 @@ Merci à nos partenaires!
 
   <div class="sponsors">
   {% for sponsor in site.data.sponsors %}
-    <div class="sponsor">
-      {% if  sponsor.image_url %}
-        <a href="{{ sponsor.url }}" target="_blank">
-          <img width="{{ sponsor.image_width }}" src="{{ sponsor.image_url }}" alt="{{ sponsor.name }}"/>
-        </a>
-      {% else %}
-        <p>{{ sponsor.name }}</p>
-      {% endif %}
-    </div>
+    {% if sponsor.tier == "gold" %}
+        <div class="sponsor">
+            {% if  sponsor.image_url %}
+                <a href="{{ sponsor.url }}" target="_blank">
+                    <img width="{{ sponsor.image_width }}" src="{{ sponsor.image_url }}" alt="{{ sponsor.name }}"/>
+                </a>
+            {% else %}
+                <p>{{ sponsor.name }}</p>
+            {% endif %}
+        </div>
+    {% endif %}
   {% endfor %}
   </div>
+
+
+  <div class="sponsors">
+  {% for sponsor in site.data.sponsors %}
+    {% if sponsor.tier == "silver" %}
+        <div class="sponsor">
+            {% if  sponsor.image_url %}
+                <a href="{{ sponsor.url }}" target="_blank">
+                    <img width="{{ sponsor.image_width }}" src="{{ sponsor.image_url }}" alt="{{ sponsor.name }}"/>
+                </a>
+            {% else %}
+                <p>{{ sponsor.name }}</p>
+            {% endif %}
+        </div>
+    {% endif %}
+  {% endfor %}
+  </div>
+
+
+  <div class="sponsors">
+  {% for sponsor in site.data.sponsors %}
+    {% if sponsor.tier == "bronze" %}
+        <div class="sponsor">
+            {% if  sponsor.image_url %}
+                <a href="{{ sponsor.url }}" target="_blank">
+                    <img width="{{ sponsor.image_width }}" src="{{ sponsor.image_url }}" alt="{{ sponsor.name }}"/>
+                </a>
+            {% else %}
+                <p>{{ sponsor.name }}</p>
+            {% endif %}
+        </div>
+    {% endif %}
+  {% endfor %}
+  </div>
+
 
 {::comment}
   Notre infrastructure est commanditée par :
