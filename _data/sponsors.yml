@@ -38,12 +38,17 @@
   image_url: "/assets/images/sponsors/imc2.svg"
   image_width: "200"
 
+# - name: "Pole d'expertises en cybersécurité Intact"
+#   url: "https://www.usherbrooke.ca/pole-cybersecurite/"
+#   image_url: "/assets/images/sponsors/pole_cyber_intact.png"
+#   image_width: "200"
+
 #- name: "OVHcloud"
 #  url: "https://www.ovhcloud.com/en-ca/"
 #  image_url: "/assets/images/sponsors/ovhcloud.png"
 #  image_width: "200"
 
-#- name: "Bell"
-#  url: "https://jobs.bell.ca/ca/fr/stages"
-#  image_url: "/assets/images/sponsors/bell.png"
-#  image_width: "100"
+- name: "NorthSec"
+  url: "https://nsec.io/"
+  image_url: "/assets/images/sponsors/nsec.png"
+  image_width: "100"
