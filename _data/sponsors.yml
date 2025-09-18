@@ -2,16 +2,19 @@
   url: "https://www.desjardins.com/"
   image_url: "/assets/images/sponsors/Desjardins.png"
   image_width: "350"
+  tier: "gold"
 
 - name: "Ministère de la Cybersécurité et du Numérique"
   url: "https://www.quebec.ca/gouvernement/ministere/cybersecurite-numerique"
   image_url: "/assets/images/sponsors/MCN.svg"
   image_width: "350"
+  tier: "gold"
 
 - name: "Cybereco"
   url: "https://cybereco.ca/"
   image_url: "/assets/images/sponsors/Cybereco.png"
   image_width: "350"
+  tier: "gold"
 
 # - name: "ESET"
 #   url: "https://www.eset.com/"
@@ -37,6 +40,7 @@
   url: "https://i-mc2.ca/"
   image_url: "/assets/images/sponsors/imc2.svg"
   image_width: "200"
+  tier: "silver"
 
 # - name: "Pole d'expertises en cybersécurité Intact"
 #   url: "https://www.usherbrooke.ca/pole-cybersecurite/"
@@ -52,3 +56,4 @@
   url: "https://nsec.io/"
   image_url: "/assets/images/sponsors/nsec.png"
   image_width: "100"
+  tier: "bronze"
