@@ -36,6 +36,12 @@
 #  image_url: "/assets/images/sponsors/hackfest2024.png"
 #  image_width: "200"
 
+- name: "Pôle d'expertises en cybersécurité Intact"
+  url: "https://www.usherbrooke.ca/pole-cybersecurite/"
+  image_url: "/assets/images/sponsors/pole-intact.png"
+  image_width: "200"
+  tier: "silver"
+
 - name: "IMC2"
   url: "https://i-mc2.ca/"
   image_url: "/assets/images/sponsors/imc2.svg"
