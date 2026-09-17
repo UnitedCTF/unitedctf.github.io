@@ -6,8 +6,8 @@
   url: "/club/jdis"
   university_name: "l'Université de Sherbrooke"
 
-- name: "SCS"
-  # url: "https://scsconcordia.com/"
+- name: "Hexploit Alliance"
+  url: "/club/hexploit-alliance"
   university_name: "l'Université Concordia"
 
 - name: "CSIUL"
