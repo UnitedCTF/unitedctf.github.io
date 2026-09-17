@@ -70,7 +70,9 @@ Un **CTF**, sigle de **[Capture The Flag](https://fr.wikipedia.org/wiki/Capture_
 
 ## Partenaires
 
-Merci à nos partenaires!
+Nous cherchons actuellement des partenaires pour l'édition 2026.
+
+<!-- Merci à nos partenaires! -->
 
   <div class="sponsors">
   {% for sponsor in site.data.sponsors %}
