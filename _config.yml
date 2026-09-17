@@ -32,10 +32,10 @@ ctf:
   display: true
   registration_enabled: false
   place: "en ligne"
-  name: "UnitedCTF 2025"
+  name: "UnitedCTF 2026"
   url: "https://ctf.unitedctf.ca/"
-  date_start: "19 septembre 18h"
-  date_end: "26 septembre 18h"
+  date_start: "9 octobre 18h"
+  date_end: "15 octobre 18h"
 contacts:
   - name: Facebook
     link: https://www.facebook.com/UnitedCTF
