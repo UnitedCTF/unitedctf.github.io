@@ -11,7 +11,7 @@
   university_name: "l'Université Concordia"
 
 - name: "CSIUL"
-  url: "https://csi.ift.ulaval.ca/"
+  url: "/club/csiul"
   university_name: "l'Université Laval"
 
 - name: "PolyCyber"
