@@ -1,8 +1,8 @@
-# - name: "Desjardins"
-#   url: "https://www.desjardins.com/"
-#   image_url: "/assets/images/sponsors/Desjardins.png"
-#   image_width: "350"
-#   tier: "gold"
+- name: "Desjardins"
+  url: "https://www.desjardins.com/"
+  image_url: "/assets/images/sponsors/Desjardins.png"
+  image_width: "350"
+  tier: "gold"
 
 # - name: "Ministère de la Cybersécurité et du Numérique"
 #   url: "https://www.quebec.ca/gouvernement/ministere/cybersecurite-numerique"
