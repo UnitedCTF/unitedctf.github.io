@@ -42,11 +42,11 @@
 #   image_width: "200"
 #   tier: "silver"
 
-# - name: "IMC2"
-#   url: "https://i-mc2.ca/"
-#   image_url: "/assets/images/sponsors/imc2.svg"
-#   image_width: "200"
-#   tier: "silver"
+- name: "IMC2"
+  url: "https://i-mc2.ca/"
+  image_url: "/assets/images/sponsors/imc2.svg"
+  image_width: "200"
+  tier: "silver"
 
 # - name: "Pole d'expertises en cybersécurité Intact"
 #   url: "https://www.usherbrooke.ca/pole-cybersecurite/"
